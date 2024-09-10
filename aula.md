@@ -50,3 +50,7 @@ Acesso a propriedades de objetos .
 - [x] criar, passar argumento
 - [x] executar
 - [x] arrow function/named function
+
+# Estrutura de repetição
+- [x] While
+

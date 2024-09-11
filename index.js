@@ -1,3 +1,5 @@
+const { select } = require('@inquirer/prompts')
+
 const start = () => {
   let opcao = "sair"
   switch (opcao) {

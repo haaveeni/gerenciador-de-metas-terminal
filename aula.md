@@ -54,3 +54,10 @@ Acesso a propriedades de objetos .
 # Estrutura de repetição
 - [x] While
 
+# Condicionais
+- [x] while
+
+## Módulos em Node.js:
+- [x] Importação de módulos (require, CommonJS)
+- [x] Biblioteca 'inquirer' para criar prompts interativos
+

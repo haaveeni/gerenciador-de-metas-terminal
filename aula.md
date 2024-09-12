@@ -30,20 +30,23 @@ Apresentar os dados
 
 ## Operadores
 
-Operadores de atribuição de valor =
-Operador de concatenação +
+- [x] Operadores de atribuição de valor =
+- [x] Operador de concatenação +
+- [x] Operadores de comparação == === < > <= >= !=
 
 ## Estruturas de dados:
 
 ### Arrays:
 
-Uma lista que contém qualquer tipo de dado
+- [x] Uma lista que contém qualquer tipo de dado
+- [x] métodos de array: push, find, forEach
 
 ### Objetos:
 
-Atributos e métodos
-Criação e manipulação de objetos
-Acesso a propriedades de objetos .
+- [x] Atributos e métodos
+- [x] Criação e manipulação de objetos
+- [x] Acesso a propriedades de objetos .
+
 
 ### Functions
 
@@ -61,3 +64,5 @@ Acesso a propriedades de objetos .
 - [x] Importação de módulos (require, CommonJS)
 - [x] Biblioteca 'inquirer' para criar prompts interativos
 
+## Programação assincrona e promises
+- [x] Uso de funções assíncronas (async/await)

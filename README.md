@@ -14,21 +14,29 @@
    </a>
 
 <p align="center">
-	<img alt="Status Em Desenvolvimento" src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green">
+	<img alt="Status Em Desenvolvimento" src="https://img.shields.io/badge/STATUS-%20ENTREGUE-green">
 <!-- 	<img alt="Status Concluído" src="https://img.shields.io/badge/STATUS-CONCLU%C3%8DDO-brightgreen"> -->
 </p>
 
 ## 💻 Sobre o projeto
 
-Repositório para o projeto de Gerenciador de Metas, desenvolvido ao longo da NLW Pocket Javascript da RocketSeat de 9 a 12 de setembro de 2024.
+Sistema de gerenciamento de metas que roda no terminal. Ele salva e carrega metas de um arquivo JSON, permite ao usuário adicionar, listar, marcar como concluídas e deletar metas. Foi desenvolvido ao longo da trilha iniciante da NLW Pocket Javascript da RocketSeat de 9 a 12 de setembro de 2024, com Mayk Brito.
+
+### Conceitos abordados:
+- [x] Módulos do Node.js
+	- [x] inquirer/prompts (uma biblioteca de interfaces de usuário de linha de comando interativas comuns)
+	- [x] fs/promises (File System: módulo do Node que permite ler e escrever arquivos e o Promises faz com que as funções desse módulo retornem promessas, ou seja, possam ser usadas com async e await
+- [x] Funções Assíncronas
+	- [x] Async e Await
+- [x] Manipulação de Arquivos
+	- [x] Ler e escrever arquivos JSON, persistindo as metas do usuário, ou seja, salvando e carregando as informações localmente.
+
 
 ---
 
 ## ⚙️ Funcionalidades
 
-- [x] ..
-  - [x] ..
-  - [x] ..
+
 
 
 ---

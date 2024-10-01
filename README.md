@@ -87,11 +87,11 @@ As seguintes ferramentas foram usadas na construção do projetos:
 
 ---
 
-## 👩🏻 Autora <br>
+## 👩🏻 Autora
  <img src="https://media.licdn.com/dms/image/v2/D4D03AQGC9i8Q8qKbgg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1726935427851?e=1733356800&v=beta&t=Pdx08MLdiWHzKb7KbmntsHwslsudDY3TazoZ0K2Tzyg" width="100px;" alt=""/><br>
+ <a href="https://www.linkedin.com/in/veridiana-lucena/">Linkedin</a>
 # Veridiana Lucena de Marchi
 ### Desenvolvedora Front-End Júnior
 Graduada em Análise e Desenvolvimento de Sistemas, com forte experiência em HTML, CSS, JavaScript, React, Figma.
 Experiência em Metodologias Ágeis: Scrum e Kanban.
 Ferramentas como Jira, Confluence, Slack, Git e GitHub.
-<a href="https://www.linkedin.com/in/veridiana-lucena/">

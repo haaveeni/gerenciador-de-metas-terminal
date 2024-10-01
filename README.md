@@ -1,98 +1,97 @@
-# <p align="center">NLW POCKET JAVASCRIPT - ROCKETSEAT</p>
+# <p align="center">✅ GERENCIADOR DE METAS 🎯</p>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/haaveeni/nlw-pocket-js-iniciante?color=%23b21104">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/haaveeni/nlw-pocket-js-iniciante?color=brightgreen">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/haaveeni%2Fnlw-pocket-js-iniciante?color=%23b21104">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/haaveeni%2Fnlw-pocket-js-iniciante?color=brightgreen">
   
   <a href="https://github.com/haaveeni/nlw-pocket-js-iniciante/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/haaveeni/nlw-pocket-js-iniciante?color=%23b21104">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/haaveeni/nlw-pocket-js-iniciante?color=brightgreen">
   </a>
   
    <a href="">
-    <img alt="Feito pela Veridiana Lucena" src="https://img.shields.io/badge/feito%20por%20-Veridiana-b21104">
+    <img alt="Feito pela Veridiana Lucena" src="https://img.shields.io/badge/feito%20por%20-Veridiana-brightgreen">
    </a>
 
 <p align="center">
-	<img alt="Status Em Desenvolvimento" src="https://img.shields.io/badge/STATUS-%20ENTREGUE-green">
+	<img alt="Status Entregue" src="https://img.shields.io/badge/STATUS-%20ENTREGUE-brightgreen">
 <!-- 	<img alt="Status Concluído" src="https://img.shields.io/badge/STATUS-CONCLU%C3%8DDO-brightgreen"> -->
 </p>
 
 ## 💻 Sobre o projeto
 
-Sistema de gerenciamento de metas que roda no terminal. Ele salva e carrega metas de um arquivo JSON, permite ao usuário adicionar, listar, marcar como concluídas e deletar metas. Foi desenvolvido ao longo da trilha iniciante da NLW Pocket Javascript da RocketSeat de 9 a 12 de setembro de 2024, com Mayk Brito.
+Sistema de gerenciamento de metas que roda no terminal. Ele salva e carrega metas de um arquivo JSON e permite ao usuário adicionar, listar, marcar como concluídas e deletar metas. Foi desenvolvido ao longo da trilha iniciante da NLW Pocket Javascript da RocketSeat de 9 a 12 de setembro de 2024, com Mayk Brito.
 
 ### Conceitos abordados:
 - [x] Módulos do Node.js
-	- [x] inquirer/prompts (uma biblioteca de interfaces de usuário de linha de comando interativas comuns)
-	- [x] fs/promises (File System: módulo do Node que permite ler e escrever arquivos e o Promises faz com que as funções desse módulo retornem promessas, ou seja, possam ser usadas com async e await
+	- [x] inquirer/prompts 
+	- [x] fs/promises 
 - [x] Funções Assíncronas
 	- [x] Async e Await
-- [x] Manipulação de Arquivos
-	- [x] Ler e escrever arquivos JSON, persistindo as metas do usuário, ou seja, salvando e carregando as informações localmente.
-
-
+- [x] Manipulação de Arquivos, Arrays e Objetos
+- [x] Estrutura de Controle e Repetição
+	- [x] While
+ 	- [x] Switch/Case
+ 	- [x] If
+- [x] Interação com o Usuário (CLI - Command Line Interface)
+- [x] Tratamento de Erros
+	- [x] Try/Catch
+- [x] Persistência de Dados
 ---
 
 ## ⚙️ Funcionalidades
-
-
-
-
----
-
-<!-- ## 🎨 Layout --->
-
-
-
-<!-- ### Web --->
-
-<!-- (INSERIR PRINTS/VIDEO) --->
+- [x] Criação de metas
+- [x] Listagem de metas
+- [x] Marcação de metas
+- [x] Exclusão de metas
 
 ---
 
-<!-- ## 🛣️ Como executar o projeto
+## ▶️ Demonstração
 
-### Acesse
-(INSERIR LINK DO GITHUB PAGES)
+https://github.com/user-attachments/assets/e4dcb328-a48a-40cb-b031-64ccda99369c
+
+---
+
+## 🛣️ Como executar o projeto
 
 ### Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-
-#### 🧭 Rodando a aplicação web (Frontend)
+[Node.js](https://nodejs.org/en/). 
 
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:haaveeni/(INSERIR NOME DO REPOSITÓRIO).git
+$ git clone git@github.com:haaveeni/nlw-pocket-js-iniciante.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd haaveeni/(INSERIR NOME DO REPOSITÓRIO)
+$ cd nlw-pocket-js-iniciante
 
 # Instale as dependências
 $ npm i
 
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev
-
-# O servidor inciará na porta:3333 - acesse http://localhost:3333 
+# Execute a aplicação
+$ node index.js 
 
 ```
 
---->
+
 
 ## 🛠 Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
-Javascript, NodeJS
+As seguintes ferramentas foram usadas na construção do projetos:
+- JavaScript
+- Node
+- Inquirer
+- File system
 
 ---
 
-## 👩🏻 Autora
-
+## 👩🏻 Autora <br>
+ <img src="https://media.licdn.com/dms/image/v2/D4D03AQGC9i8Q8qKbgg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1726935427851?e=1733356800&v=beta&t=Pdx08MLdiWHzKb7KbmntsHwslsudDY3TazoZ0K2Tzyg" width="100px;" alt=""/><br>
+# Veridiana Lucena de Marchi
+### Desenvolvedora Front-End Júnior
+Graduada em Análise e Desenvolvimento de Sistemas, com forte experiência em HTML, CSS, JavaScript, React, Figma.
+Experiência em Metodologias Ágeis: Scrum e Kanban.
+Ferramentas como Jira, Confluence, Slack, Git e GitHub.
 <a href="https://www.linkedin.com/in/veridiana-lucena/">
- <img src="https://media.licdn.com/dms/image/D4D03AQE7TU2xzZdMtQ/profile-displayphoto-shrink_200_200/0/1715875083059?e=1727308800&v=beta&t=IMNulLJ8nfCxPci-BR6WRLSwNtphIVhohpEqlGyt9QI" width="100px;" alt=""/>
- <br />
- <b>Veridiana Lucena de Marchi</b></a>
- <br />
